@@ -1,25 +1,26 @@
 <p align="center">
-  <img src="./banner-miles.png" alt="banner-miles.png" width="100%">
+
 </p>
 
 <h1 align="center">Olá, eu sou o Gabriel Silva 🕷️</h1>
 
 <p align="center">
-Desenvolvedor <strong>Back-end</strong> em formação técnica e acadêmica, com estudos em <strong>Cybersecurity</strong> .
+Desenvolvedor <strong>Back-end</strong> e estudando <strong>Cybersecurity</strong>.
 </p>
 
 ---
 
 ### 🧠 Sobre mim
 
-- 💻 Técnico em Desenvolvimento de Sistemas  
-- 🧑‍🎓 Cursando graduação em **Cybersecurity**
-- 💡 Apaixonado por tecnologia, segurança digital e desenvolvimento web
-- 🎯 Buscando sempre evoluir como profissional e contribuir em projetos reais
+- 🎓 Técnico em Desenvolvimento de Sistemas  
+- 🛡️ Cursando graduação em **Cybersecurity**
+- 💻 Experiência em desenvolvimento Web
+- 🧪 Explorando segurança digital, APIs e automação
+- 🔍 Curioso, criativo e sempre aprendendo
 
 ---
 
-### 🚀 Tecnologias que uso
+### 🚀 Tecnologias que utilizo
 
 #### 🔧 Back-end
 
@@ -33,24 +34,32 @@ Desenvolvedor <strong>Back-end</strong> em formação técnica e acadêmica, com
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### 🛠️ Ferramentas & Outros
+#### ⚙️ Ferramentas e Outros
 
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?Gabriel-sillvaGitHub&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-sillva&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 ---
 
 ### 🌐 Contato
 
-- 📧 gabriel.miranda31@gmail.com
+- 📧 Gabriel2004.miranda31@gmail.com  
+- 📸 [Instagram](https://www.instagram.com/biel_sillva11/)
+
+---
+
+<p align="center">
+  <sub>Feito com 🕷️ por Gabriel Silva — inspirado no universo do Miles Morales</sub>
+</p>
 
