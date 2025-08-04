@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner-miles.png" alt="Banner Gabriel Silva - Miles Morales Style" width="100%">
+  <img src="./banner-miles.png" alt="banner-miles.png" width="100%">
 </p>
 
 <h1 align="center">Olá, eu sou o Gabriel Silva 🕷️</h1>
@@ -45,7 +45,7 @@ Desenvolvedor <strong>Back-end</strong> em formação técnica e acadêmica, com
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuarioGitHub&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?Gabriel-sillvaGitHub&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 ---
