@@ -1,5 +1,3 @@
-
-```markdown
 # 👋 Olá, meu nome é Gabriel Silva
 
 Sou **Desenvolvedor**, apaixonado por tecnologia e sempre buscando aprender mais.
@@ -58,6 +56,4 @@ Sou **Desenvolvedor**, apaixonado por tecnologia e sempre buscando aprender mais
 ---
 
 ⭐ Obrigado por visitar meu perfil!
-```
 
-Se quiser me passar seu LinkedIn, já adiciono aqui também! Quer?
