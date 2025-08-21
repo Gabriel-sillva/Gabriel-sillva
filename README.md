@@ -1,11 +1,6 @@
 <p align="center">
-
-  <img src="<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDk2ZTh6bHpnMHVzZWl3aWFzZmlweGJuMXdsaXhuZzZ3b2Yyd2cxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qiywDYLLAk3jpDBaE/giphy.gif" width="600"/>
 </p>
-" width="200"/>
-</p>
-
 
 <h1 align="center">Olá, eu sou o Gabriel Silva 🕷️</h1>
 
@@ -67,4 +62,3 @@ Desenvolvedor <strong>Back-end</strong> e estudando <strong>Cybersecurity</stron
 <p align="center">
   <sub>Feito com 🕷️ por Gabriel Silva — inspirado no universo do Miles Morales</sub>
 </p>
-
