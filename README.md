@@ -53,9 +53,9 @@ Desenvolvedor <strong>Back-end</strong> e estudando <strong>Cybersecurity</stron
 
 ### 📂 Projetos em destaque
 
-- [📚 Livraria API](https://github.com/Gabriel-sillva/livraria) — API REST com Django REST Framework  
-- [💈 Web Barbearia](https://github.com/Gabriel-sillva/web_barbearia) — Site responsivo para barbearia  
-- [🔒 Security Scripts](https://github.com/Gabriel-sillva/security-scripts) — Automação em segurança digital  
+- [📚 Livraria API](https://github.com/Gabriel-sillva/Livraria.git) — API REST com Django REST Framework  
+- [💈 Web Barbearia](https://github.com/Gabriel-sillva/web_barbearia.git) — Site responsivo para barbearia  
+- [🔒 Security Scripts](https://github.com/Gabriel-sillva/senha_segura.git) — Automação em segurança digital  
 
 ---
 
@@ -68,10 +68,6 @@ Desenvolvedor <strong>Back-end</strong> e estudando <strong>Cybersecurity</stron
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-sillva&layout=compact&theme=dark&hide_border=false" alt="Top Langs"/>
 </p>
-
----
-
-
 
 ---
 
