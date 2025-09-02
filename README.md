@@ -71,11 +71,6 @@ Desenvolvedor <strong>Back-end</strong> e estudando <strong>Cybersecurity</stron
 
 ---
 
-### 🕸️ Snake Animation - Miles Morales Style
-
-<p align="center">
-  <img src="https://github.com/Gabriel-sillva/livraria/blob/main/github-snake-red-black.svg" width="600"/>
-</p>
 
 
 ---
